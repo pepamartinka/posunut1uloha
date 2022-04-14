@@ -63,3 +63,4 @@ let paty = images.createImage(`
 . . . . .
 #####
 `)
+prvniradek.showImage(0)

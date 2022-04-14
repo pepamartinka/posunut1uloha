@@ -54,3 +54,4 @@ paty = images.create_image("""
 . . . . .
 #####
 """)
+prvniradek.show_image(0)
